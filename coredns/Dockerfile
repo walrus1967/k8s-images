@@ -1,1 +1,1 @@
-FROM docker.io/coredns/coredns@sha256:969a21696cff473cb4d36854b15118885fd414394d09444cfd111213fabcd982
+FROM k8s.io/coredns/coredns:v1.8.0
