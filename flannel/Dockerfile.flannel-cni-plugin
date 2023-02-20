@@ -1,1 +1,1 @@
-FROM :v1.1.0
+FROM quay.io/coreos/flannel-cni-plugin:v1.1.0
